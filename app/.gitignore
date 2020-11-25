@@ -1,1 +1,7 @@
 /build
+/libs
+/assets
+app.iml
+build.gradle
+google-services
+proguard-rules.pro
